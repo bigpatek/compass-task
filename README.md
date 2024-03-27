@@ -1,19 +1,2 @@
 # compass-task
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Для того, чтобы запустить проект на локальном окружении необходимо первым делом установить Node.js (https://nodejs.org/en/download), затем в папке проекта в командной строке нужно прописать команду npm i, для подгрузки необходимых пакетов. Когда все загрузиться, в командной строке надо написать npm run serve, после чего начнется запуск приложения на локальном компьютере  
